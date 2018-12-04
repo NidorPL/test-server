@@ -3,7 +3,7 @@
 
 simple nodejs http server, returning the architecture and platform it is running on
 
-example response:
+**example response:**
 
 ```
 test server running on:
